@@ -1,5 +1,7 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 
+### NAME: VIDHIYA LAKSHMI S
+### REG. NO: 212223230238
+### DATE: 22.08.2025
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
 <div align = "justify">
@@ -27,4 +29,9 @@ for this purpose.
 
 ### Output:
 
+<img width="1919" height="1018" alt="Screenshot 2025-08-21 160638" src="https://github.com/user-attachments/assets/16e7e887-cc5a-4eb5-97f4-5d6263ee8c7f" />
+<img width="1919" height="1018" alt="Screenshot 2025-08-21 160650" src="https://github.com/user-attachments/assets/58d68509-fa21-4ebe-84d4-0e500d0340a8" />
+<img width="1918" height="1017" alt="Screenshot 2025-08-21 160704" src="https://github.com/user-attachments/assets/1e92f34f-90d5-4c0e-8dea-318b663b2907" />
+
 ### Result:
+Thus, the preprocessing technique on twitter data in Rapidminer has been implemented.
